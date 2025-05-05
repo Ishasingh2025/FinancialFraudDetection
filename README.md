@@ -8,6 +8,15 @@ Through this paper, we revisit the dataset from the Kaggle competition to conduc
 
 
 
+
+
+
+
+
+
+
+
+
 PROBLEM STATEMENT/RESEARCH OBJECTIVES
 
 The New York Times reported that losses from online card fraud reached nearly $8 billion by the end of 2021, an increase from approximately $6 billion in 2019. Due to 
