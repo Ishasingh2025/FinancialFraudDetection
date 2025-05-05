@@ -5,6 +5,9 @@ In 2019, the IEEE Computational Intelligence Society (IEEE-CIS), in collaboratio
 fraud detection solutions. This competition advanced fraud detection technology through machine learning (ML) application, encouraging participants to develop more 
 accurate and efficient methods for identifying fraudulent transactions. The competition, which offered a $20,000 cash prize, attracted 125,219 model submissions. 
 Through this paper, we revisit the dataset from the Kaggle competition to conduct experiments and develop a machine-learning model to optimize the accuracy of fraud detection.
+
+
+
 PROBLEM STATEMENT/RESEARCH OBJECTIVES
 
 The New York Times reported that losses from online card fraud reached nearly $8 billion by the end of 2021, an increase from approximately $6 billion in 2019. Due to 
